@@ -10,6 +10,12 @@ we use [Vuetify](https://vuetifyjs.com/en/) as our material design style
 framework. We use [REST API](https://reqres.in/) as a hosted Rest-API
 to respond the requests. 
 
+## Development and building
+
+To run the application you must use:
+
+npm run serve
+
 ## Goals
 
 To pass this practice we must to:
