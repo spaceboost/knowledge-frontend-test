@@ -1,26 +1,24 @@
 # knowledge-frontend-test
 
-## Project setup
-```
-npm install
-```
+# REST-API https://reqres.in/
+# Framework : Vuetify
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 1. SignUp
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# 2. Login
 
-### Run your tests
-```
-npm run test
-```
+# 3. User Table list
 
-### Lints and fixes files
-```
-npm run lint
-```
+# 4. User Table list pagination
+
+# 5. Create new User
+
+# 6. Edit User
+
+# 7. Delete User
+
+# 8. Unit Testing
+
+# 9. Error Pages (404, 403, 500)
+
+# 10. Improvements: What would you do if you had more time?
