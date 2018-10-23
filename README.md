@@ -14,7 +14,7 @@ to respond the requests.
 
 To pass this practice we must to:
 
-1. Create a signUp page.
+1. Create a signup page.
 
 2. Create a login page.
 
