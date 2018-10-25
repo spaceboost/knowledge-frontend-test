@@ -24,7 +24,7 @@ To pass this practice we must to:
 
 2. Create a login page.
 
-3. Craete a user table list.
+3. Create a user table list.
 
 4. Allow to paginate user table list.
 
